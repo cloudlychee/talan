@@ -1,3 +1,3 @@
 # talan
 
-var h=1;2
+var h=1;2:3
